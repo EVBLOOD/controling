@@ -5,7 +5,7 @@
 * [Status](#status)
 
 ## General info
-This project is simple code  that alows login into a website, checking if some changes have been added, and notify about it via an Email.
+This project is a simple code that allows login into a website, checking if there are some changes, and notify about it via an Email.
 	
 ## Technologies
 Project is created with:
